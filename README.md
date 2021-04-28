@@ -1,6 +1,6 @@
 ![SplashScreen](images/Hapl-o-Mat_tag.png)
   
-  
+
 # Hapl-o-MatGUI v1.0.1K Windows binary version
 
 ## General information:
@@ -16,19 +16,21 @@ So far, we do not provide a Linux installer. If you want to use Hapl-o-Mat via t
 The Hapl-o-MatGUI v1.0.1K Windows binary version contains both, Hapl-o-MatGUI and Hapl-o-Mat and has no further dependencies.
  
 ## Installation and Setup:
-Clone the repository from [GitHub](https://github.com/DKMS/Hapl-o-Mat_WinBin) to a suitable place on your computer.
-Execute Hapl-o-MatGUI_V1.0.1KSetup.exe in the Hapl-o-MatGui folder and follow the instructions. You will be asked to choose a destination folder that will contain all program files.
-Hapl-o-MatGUI will be added to your start menu.
+Clone the repository from [GitHub](https://github.com/DKMS/Hapl-o-Mat_WinBin) to a suitable place on your computer. The repository contains two essential directories: 'Hapl-o-Mat', comprising the core Hapl-o-Mat files, and 'Hapl-o-MatGUI', comprising the GUI files.
+Execute Hapl-o-MatGUI_V1.0.1KSetup.exe in the Hapl-o-MatGUI folder and follow the instructions. You will be asked to choose a destination folder that will contain all program files. Hapl-o-MatGUI will be added to your start menu.
+The folder 'Hapl-o-Mat' can be moved to any location on your computer. The path to this folder is requested in the GUI.
 
-Alternatively, you can execute Hapl-o-Mat without the GUI by command line interface. For information on how to proceed, please follow the guide [detailledGettingStartedWindows](Hapl-o-Mat/detailledGettingStartedWindows.pdf). You can skip the compilation because you have already downloaded a compiled Hapl-o-Mat version.
+Alternatively, you can execute Hapl-o-Mat without the GUI by command line interface. For information on how to proceed, please follow the guide [detailledGettingStartedWindows](Hapl-o-Mat/detailledGettingStartedWindows.pdf). You can skip the compilation step because you have already downloaded a compiled Hapl-o-Mat version.
 
 ## Uninstall options:
 In order to uninstall the downloaded Hapl-o-MatGUI Windows binary version, it is sufficient to remove the entire program folder.
 If you have installed Hapl-o-MatGUI to a different location on your computer, you have the following uninstall options:
 
- * Uninstall GUI via the uninstall option in the start menue.
+ * Uninstall GUI via the uninstall option in the start menu.
  * Uninstall GUI by executing the uninstall.exe file in the GUI program folder
  * Deleting the GUI program folder will remove Hapl-o-MatGUI entirely.
+
+Hapl-o-Mat core files are removed by deleting the folder 'Hapl-o-Mat'.
  
 ## Manual: 
 For information on how to use Hapl-o-MatGUI follow the guide [TutorialHapl-o-MatViaGUI](Hapl-o-MatGUI/TutorialHapl-o-MatViaGU.htm). 
@@ -42,15 +44,15 @@ Schaefer C, Schmidt AH, Sauter J. Hapl-o-Mat: open-source software for HLA haplo
 If you want to participate in actively developing Hapl-o-MatGUI please join via Github.
 
 ## Authors: 
-Jürgen Sauter  
-Christian Schäfer  
+Jürgen Sauter
+Christian Schäfer
 Ute Solloch
 
 ## Contact: 
-Ute Solloch   
-DKMS gGmbH  
-Kressbach 1  
-72072 Tuebingen, Germany  
+Ute Solloch 
+DKMS gGmbH
+Kressbach 1
+72072 Tuebingen, Germany
 solloch(at)dkms.de
 
 ## License:
