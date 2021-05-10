@@ -41,7 +41,7 @@ If you have installed Hapl-o-MatGUI to a different location on your computer, yo
 Hapl-o-Mat core files are removed by deleting the folder 'Hapl-o-Mat'.
  
 ## Manual: 
-For information on how to use Hapl-o-MatGUI follow the guide [TutorialHapl-o-MatViaGUI](Hapl-o-MatGUI/TutorialHapl-o-MatViaGU.pdf). 
+For information on how to use Hapl-o-MatGUI follow the guide [TutorialHapl-o-MatViaGUI](Hapl-o-MatGUI/TutorialHapl-o-MatViaGUI.pdf). 
 
 ## Citation: 
 If you use Hapl-o-Mat and Hapl-oMatGUI for your research, please cite
