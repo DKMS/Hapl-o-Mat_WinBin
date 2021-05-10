@@ -20,7 +20,15 @@ Clone the repository from [GitHub](https://github.com/DKMS/Hapl-o-Mat_WinBin) to
 Execute Hapl-o-MatGUI_V1.0.1KSetup.exe in the Hapl-o-MatGUI folder and follow the instructions. You will be asked to choose a destination folder that will contain all program files. Hapl-o-MatGUI will be added to your start menu.
 The folder 'Hapl-o-Mat' can be moved to any location on your computer. The path to this folder is requested in the GUI.
 
-Alternatively, you can execute Hapl-o-Mat without the GUI by command line interface. For information on how to proceed, please follow the guide [detailledGettingStartedWindows](Hapl-o-Mat/detailledGettingStartedWindows.pdf). You can skip the compilation step because you have already downloaded a compiled Hapl-o-Mat version.
+Alternatively, you can execute Hapl-o-Mat without the GUI by command line interface. Hapl-o-Mat_WinBin contains a compiled Hapl-o-Mat version (Hapl-o-Mat.exe) that can be started via the command
+```
+Hapl-o-Mat.exe MAC
+```
+or
+```
+Hapl-o-Mat.exe GLSC
+```
+depending on the format of the input file.
 
 ## Uninstall options:
 In order to uninstall the downloaded Hapl-o-MatGUI Windows binary version, it is sufficient to remove the entire program folder.
@@ -33,7 +41,7 @@ If you have installed Hapl-o-MatGUI to a different location on your computer, yo
 Hapl-o-Mat core files are removed by deleting the folder 'Hapl-o-Mat'.
  
 ## Manual: 
-For information on how to use Hapl-o-MatGUI follow the guide [TutorialHapl-o-MatViaGUI](Hapl-o-MatGUI/TutorialHapl-o-MatViaGU.htm). 
+For information on how to use Hapl-o-MatGUI follow the guide [TutorialHapl-o-MatViaGUI](Hapl-o-MatGUI/TutorialHapl-o-MatViaGU.pdf). 
 
 ## Citation: 
 If you use Hapl-o-Mat and Hapl-oMatGUI for your research, please cite
